@@ -13,4 +13,9 @@ public class Main
        
        System.out.println("This is a test");
     }
+    
+    public static void print()
+    {
+        System.out.println("CashRegister Project");
+    }
 }
