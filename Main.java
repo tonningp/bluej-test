@@ -16,6 +16,6 @@ public class Main
     
     public static void print()
     {
-        System.out.println("CashRegister Project");
+        System.out.println("CashRegister Project --- ");
     }
 }
